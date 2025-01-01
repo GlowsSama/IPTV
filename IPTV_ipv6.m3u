@@ -267,8 +267,6 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="NHK G" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/800px-NHK_General_TV_logo.svg.png" group-title="日韩频道",「JP」NHK総合
 https://nhk4.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fuji TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" group-title="日韩频道",「JP」フジテレビ
-https://fujitv4.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nippon TV" tvg-logo="https://static.epg.best/jp/NipponTV.jp.png" group-title="日韩频道",「JP」日本テレビ
 https://ntv4.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tokyo MX1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/600px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="日韩频道",「JP」Tokyo MX 1
