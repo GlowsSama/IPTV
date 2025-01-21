@@ -3,20 +3,14 @@
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/CCTV_beta5/CCTV2.png" group-title="央视频道",CCTV-2 财经
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/CCTV_beta5/CCTV3.png" group-title="央视频道",CCTV-3 综艺
-http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/CCTV_beta5/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/CCTV_beta5/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/CCTV_beta5/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/CCTV_beta5/CCTV6.png" group-title="央视频道",CCTV-6 电影
-http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/CCTV_beta5/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2bEV_zkW1hRnWmsZq6rlbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/CCTV_beta5/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
-http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/CCTV_beta5/CCTV9.png" group-title="央视频道",CCTV-9 纪录
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EgdZMBjOTdDWVEgovFkZoew%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/CCTV_beta5/CCTV10.png" group-title="央视频道",CCTV-10 科教
@@ -38,7 +32,7 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?GuardEncType
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png" group-title="央视频道",CGTN 国际频道
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227006/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EYcJ3PdHkzUJtmPevi5x_2A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="" tvg-name="CGTN西语" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="央视频道",CGTN 西语频道
-http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226431/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
+https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN法语" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/CGTN_-_français.png" group-title="央视频道",CGTN 法语频道
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227034/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnmNWt4gIKrkCWjuWofLapQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="" tvg-name="CGTN阿语" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/CGTN_arabic.png" group-title="央视频道",CGTN 阿语频道
