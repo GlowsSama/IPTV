@@ -154,20 +154,10 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.
 #EXTINF:-1 tvg-id="" tvg-name="高尔夫" group-title="体育频道",ONE Golf
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4d/Phoenix_hongkong.png" group-title="港台频道",「HK」鳳凰衛視香港台
-http://198.16.64.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png" group-title="港台频道",「HK」翡翠台
 http://192.168.50.12:3000/stream/tvb/null-3/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7
 #EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png" group-title="港台频道",「HK」明珠台
 http://192.168.50.12:3000/stream/tvb/null-2/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7
-#EXTINF:-1 tvg-id="" tvg-name="有线新闻" tvg-logo="https://github.com/hououinkami/AppleTV/raw/main/ChannelLogo/Hongkong/Cable_News.png" group-title="港台频道",「HK」有綫新聞台
-http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="有线财经资讯" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/7a/I-CABLE_Finance.png" group-title="港台频道",「HK」有綫財經資訊台
-https://api.leonardpark.dev/live/icable/108
-#EXTINF:-1 tvg-id="" tvg-name="RTHK32" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/440px-RTHK_TV_32.svg.png" group-title="港台频道",「HK」RTHK32
-https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="开电视" tvg-logo="https://github.com/hououinkami/AppleTV/raw/main/ChannelLogo/Hongkong/HK_Open_TV.png" group-title="港台频道",「HK」香港開電視
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中天新聞台" tvg-logo="https://i.imgur.com/u81tZtA.png" group-title="港台频道",「TW」中天新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中天綜合台" tvg-logo="https://i.imgur.com/tqsKObw.png" group-title="港台频道",「TW」中天綜合台
