@@ -1,36 +1,36 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/CCTV_beta5/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
+http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/CCTV_beta5/CCTV2.png" group-title="央视频道",CCTV-2 财经
-http://39.164.180.36:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/CCTV_beta5/CCTV3.png" group-title="央视频道",CCTV-3 综艺
-http://39.164.180.36:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/CCTV_beta5/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://39.164.180.36:19901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/CCTV_beta5/CCTV5.png" group-title="央视频道",CCTV-5 体育
-http://39.164.180.36:19901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 #EXTINF:-1 tvg-id="5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/CCTV_beta5/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
-http://39.164.180.36:19901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
+http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/CCTV_beta5/CCTV6.png" group-title="央视频道",CCTV-6 电影
-http://39.164.180.36:19901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/CCTV_beta5/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
-http://39.164.180.36:19901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/CCTV_beta5/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
-http://39.164.180.36:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/CCTV_beta5/CCTV9.png" group-title="央视频道",CCTV-9 纪录
-http://39.164.180.36:19901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/CCTV_beta5/CCTV10.png" group-title="央视频道",CCTV-10 科教
-http://39.164.180.36:19901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/CCTV_beta5/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
-http://39.164.180.36:19901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/CCTV_beta5/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
-http://39.164.180.36:19901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/CCTV_beta5/CCTV13.png" group-title="央视频道",CCTV-13 新闻
-http://39.164.180.36:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/CCTV_beta5/CCTV14.png" group-title="央视频道",CCTV-14 少儿
-http://39.164.180.36:19901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png" group-title="央视频道",CGTN 国际频道
-https://0472.org/hls/cgtn.m3u8
+http://iptv.huuc.edu.cn/hls/cgtnhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN西语" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="央视频道",CGTN 西语频道
 https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN法语" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/CGTN_-_français.png" group-title="央视频道",CGTN 法语频道
@@ -39,3 +39,39 @@ https://0472.org/hls/cgtnf.m3u8
 https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN俄语" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/CGTN_Russian.png" group-title="央视频道",CGTN 俄语频道
 https://0472.org/hls/cgtne.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/SATT_beta1/HNTV.png" group-title="卫视频道",湖南卫视
+http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/SATT_beta1/ZJTV.png" group-title="卫视频道",浙江卫视
+http://iptv.huuc.edu.cn/hls/zjhd.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/SATT_beta1/JSTV.png" group-title="卫视频道",江苏卫视
+http://iptv.huuc.edu.cn/hls/jshd.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/SATT_beta1/DFTV.png" group-title="卫视频道",东方卫视
+http://iptv.huuc.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/SATT_beta1/BJTV.png" group-title="卫视频道",北京卫视
+http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/SATT_beta1/TJTV.png" group-title="卫视频道",天津卫视
+http://iptv.huuc.edu.cn/hls/tjhd.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/SATT_beta1/SZTV.png" group-title="卫视频道",深圳卫视
+http://iptv.huuc.edu.cn/hls/szhd.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/SATT_beta1/GDTV.png" group-title="卫视频道",广东卫视
+http://iptv.huuc.edu.cn/hls/gdhd.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/SATT_beta1/AHTV.png" group-title="卫视频道",安徽卫视
+http://iptv.huuc.edu.cn/hls/ahhd.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/SATT_beta1/SDTV.png" group-title="卫视频道",山东卫视
+http://iptv.huuc.edu.cn/hls/sdhd.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/HUBEI2/HBWS1.png" group-title="卫视频道",湖北卫视
+http://iptv.huuc.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/SATT_beta1/LNTV.png" group-title="卫视频道",辽宁卫视
+http://iptv.huuc.edu.cn/hls/lnhd.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/SATT_beta1/HLJTV.png" group-title="卫视频道",黑龙江卫视
+http://iptv.huuc.edu.cn/hls/hljhd.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/SATT_beta1/HBWS.png" group-title="卫视频道",河北卫视
+http://iptv.huuc.edu.cn/hls/hebhd.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/SATT_beta1/SCTV.png" group-title="卫视频道",四川卫视
+http://iptv.huuc.edu.cn/hls/schd.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/SATT_beta1/CQTV.png" group-title="卫视频道",重庆卫视
+http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/SATT_beta1/DNTV.png" group-title="卫视频道",东南卫视
+http://iptv.huuc.edu.cn/hls/dnhd.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/GlowsSama/IPTV/main/logo/SATT_beta1/JXTV.png" group-title="卫视频道",江西卫视
+http://iptv.huuc.edu.cn/hls/jxhd.m3u8
