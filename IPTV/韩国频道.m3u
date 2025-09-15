@@ -13,7 +13,7 @@ http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KBS Story" tvg-logo="" group-title="日韩频道",「KR」KBS Story
 http://mytv.dothome.co.kr/ch/catv/4.php
 #EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-logo="" group-title="日韩频道",「KR」KBS World
-http://mytv.dothome.co.kr/ch/catv/7.php
+https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CJ OnStyle" tvg-logo="" group-title="日韩频道",「KR」CJ OnStyle
 https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CJ OnStyle Plus" tvg-logo="" group-title="日韩频道",「KR」CJ OnStyle Plus
