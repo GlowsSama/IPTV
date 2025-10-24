@@ -1,19 +1,3 @@
-#EXTINF:-1 tvg-id="" tvg-name="KBS 1" tvg-logo="" group-title="日韩频道",「KR」KBS 1
-http://mytv.dothome.co.kr/ch/public/1.php
-#EXTINF:-1 tvg-id="" tvg-name="KBS 2" tvg-logo="" group-title="日韩频道",「KR」KBS 2
-http://mytv.dothome.co.kr/ch/public/3.php
-#EXTINF:-1 tvg-id="" tvg-name="KBS Drama" tvg-logo="" group-title="日韩频道",「KR」KBS Drama
-http://mytv.dothome.co.kr/ch/catv/2.php
-#EXTINF:-1 tvg-id="" tvg-name="KBS Joy" tvg-logo="" group-title="日韩频道",「KR」KBS Joy
-http://mytv.dothome.co.kr/ch/catv/3.php
-#EXTINF:-1 tvg-id="" tvg-name="KBS Kids" tvg-logo="" group-title="日韩频道",「KR」KBS Kids
-http://mytv.dothome.co.kr/ch/catv/6.php
-#EXTINF:-1 tvg-id="" tvg-name="KBS LiveCam DokDo" tvg-logo="" group-title="日韩频道",「KR」KBS LiveCam DokDo
-http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KBS Story" tvg-logo="" group-title="日韩频道",「KR」KBS Story
-http://mytv.dothome.co.kr/ch/catv/4.php
-#EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-logo="" group-title="日韩频道",「KR」KBS World
-https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CJ OnStyle" tvg-logo="" group-title="日韩频道",「KR」CJ OnStyle
 https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CJ OnStyle Plus" tvg-logo="" group-title="日韩频道",「KR」CJ OnStyle Plus
